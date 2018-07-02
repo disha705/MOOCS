@@ -1,0 +1,18 @@
+body{
+  background-color:#EBF608;
+}
+
+.box{
+  margin-top: 50px;
+  margin-left: 300px;
+  margin-right: 300px;
+}
+
+
+.wrap-login{
+  margin-top: 100px;
+  padding: 20px;
+  padding-bottom: 50px;
+  background-color: #BEBEB6;
+  border: solid 1px #d0d0d0;
+}
